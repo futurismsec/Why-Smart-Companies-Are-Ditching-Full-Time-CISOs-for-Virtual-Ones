@@ -77,6 +77,8 @@ The full-time CISO model isn't going away entirely. But it's no longer the autom
 
 Learn more about how this works in practice: Virtual CISO (vCISO) Services | Futurism Security
 
-Futurism Security VCISCO : https://www.futurismsecurity.com/services/virtual-ciso-services/
-Hash node : https://futurismsecurity.hashnode.dev/do-you-actually-need-a-ciso-here-s-how-to-tell
-Substack: https://futurismsecurity.substack.com/p/why-smart-companies-are-ditching?r=8s78gn&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+**Futurism Security VCISCO** : https://www.futurismsecurity.com/services/virtual-ciso-services/
+
+**Hash node **: https://futurismsecurity.hashnode.dev/do-you-actually-need-a-ciso-here-s-how-to-tell
+
+**Substack**: https://futurismsecurity.substack.com/p/why-smart-companies-are-ditching?r=8s78gn&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
